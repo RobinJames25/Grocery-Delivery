@@ -1,4 +1,3 @@
-
 const FlashDeals = () => {
   return (
     <div>FlashDeals</div>
